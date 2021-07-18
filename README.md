@@ -1,8 +1,8 @@
 # Ola, tudo bem? Chegou aqui através do curso, certo? 👋
 
-Esta pagina foi baseada nas aulas de Flexbox da Digital Inovation One. Baseado no trabalho da instrutora fazeremos a interface de login do Instagram! 
+Esta pagina foi baseada nas aulas de Flexbox da Digital Inovation One. Baseado no trabalho da instrutora faremos a interface inicial do Instagram! 
 
-Acrescentei alguns pedulicarios para brincar com html e css
+As linguagens utilizadas foram HTML e CSS.
 
 ### Os requisitos são:
 
@@ -10,7 +10,7 @@ Acrescentei alguns pedulicarios para brincar com html e css
 
 * [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
-#### Acrescimos
+#### Acréscimos
 1. Traduzi os botões
 2. Inclui icone 
 3. Inclui metadatos
